@@ -14,5 +14,4 @@ public class StringReversal {
 		String str = sr.getString("abcdyththdsdggter");
 		System.out.println(str);
 	}
-
 }
